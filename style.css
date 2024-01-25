@@ -155,6 +155,9 @@ p {
     padding-left: 20px;
     padding-right: 20px;
 }
+iframe {
+    width: 50%;
+}
 @media only screen and (max-width: 1200px) {
     .wide-menu {
         display: none;
