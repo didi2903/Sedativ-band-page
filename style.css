@@ -141,15 +141,20 @@ i {
     display: none;
 }
 @media (max-width: 1000px) {
-
-    .p1 {
+h2 {
+    font-size: 20pt;
+}
+p {
+    font-size: 14pt;
+}
+.p1 {
     text-align: left;
-    font-size: 15pt;
+    font-size: 14pt;
     
     }
 .p2 {
     text-align: left;
-    font-size: 15pt;
+    font-size: 14pt;
     }
 .s2 {
     float: none;
