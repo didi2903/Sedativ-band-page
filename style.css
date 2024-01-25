@@ -121,8 +121,12 @@ p {
     padding-left: 20px;
     padding-right: 20px;
 }
-img {
+.slika {
     height: 400px;
+}
+iframe {
+    width: 840px;
+    height: 472px;
 }
 button {
     padding: 10px;
